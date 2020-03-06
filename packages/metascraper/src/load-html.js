@@ -1,6 +1,6 @@
 'use strict'
 
-const cheerio = require('cheerio-advanced-selectors').wrap(require('cheerio'))
+const cheerio = require('cheerio-advanced-selectors').wrap(require('react-native-cheerio'))
 
 module.exports = (html = '') =>
   cheerio.load(html, {
