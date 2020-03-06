@@ -16,7 +16,7 @@
     "title"
   ],
   "dependencies": {
-    "@metascraper/helpers": "^5.11.6",
+    "@metascraper/helpers": "https://gitpkg.now.sh/4ver/metascraper/packages/metascraper-helpers?rn_cheerio",
     "lodash": "~4.17.15"
   },
   "devDependencies": {

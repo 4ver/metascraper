@@ -18,7 +18,7 @@
     "uol"
   ],
   "dependencies": {
-    "@metascraper/helpers": "^5.11.6",
+    "@metascraper/helpers": "https://gitpkg.now.sh/4ver/metascraper/packages/metascraper-helpers?rn_cheerio",
     "tldts": "~5.6.10"
   },
   "devDependencies": {

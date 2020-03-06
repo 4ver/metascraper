@@ -36,7 +36,7 @@ const truncate = require('truncate')
 const isIso = require('isostring')
 const toTitle = require('title')
 const isUri = require('is-uri')
-const { URL } = require('url')
+const { URL } = require('url-polyfill')
 
 const VIDEO = 'video'
 const AUDIO = 'audio'
