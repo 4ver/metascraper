@@ -17,7 +17,7 @@
     "youtube"
   ],
   "dependencies": {
-    "@metascraper/helpers": "https://gitpkg.now.sh/4ver/metascraper/packages/metascraper-helpers?rn_cheerio",
+    "@metascraper/helpers": "https://gitpkg.now.sh/4ver/metascraper/packages/metascraper-helpers?rn_cheerio_3",
     "get-video-id": "~3.1.4",
     "is-reachable": "~4.0.0",
     "p-locate": "~4.1.0"

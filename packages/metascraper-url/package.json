@@ -16,7 +16,7 @@
     "url"
   ],
   "dependencies": {
-    "@metascraper/helpers": "https://gitpkg.now.sh/4ver/metascraper/packages/metascraper-helpers?rn_cheerio"
+    "@metascraper/helpers": "https://gitpkg.now.sh/4ver/metascraper/packages/metascraper-helpers?rn_cheerio_3"
   },
   "devDependencies": {
     "standard": "latest"
