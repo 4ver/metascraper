@@ -17,7 +17,7 @@
     "spotify"
   ],
   "dependencies": {
-    "@metascraper/helpers": "https://gitpkg.now.sh/4ver/metascraper/packages/metascraper-helpers?rn_5",
+    "@metascraper/helpers": "https://gitpkg.now.sh/4ver/metascraper/packages/metascraper-helpers?rn_6",
     "memoize-one": "~5.1.1",
     "spotify-url-info": "~1.3.0",
     "tldts": "~5.6.10"
