@@ -57,7 +57,7 @@
     "website"
   ],
   "dependencies": {
-    "@metascraper/helpers": "https://gitpkg.now.sh/4ver/metascraper/packages/metascraper-helpers?rn_8",
+    "@metascraper/helpers": "https://gitpkg.now.sh/4ver/metascraper/packages/metascraper-helpers?rn_9",
     "lodash": "~4.17.15",
     "react-native-cheerio": "^1.0.0-rc.4",
     "whoops": "~4.1.0"

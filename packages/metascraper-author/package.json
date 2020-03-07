@@ -16,7 +16,7 @@
     "metascraper"
   ],
   "dependencies": {
-    "@metascraper/helpers": "https://gitpkg.now.sh/4ver/metascraper/packages/metascraper-helpers?rn_8",
+    "@metascraper/helpers": "https://gitpkg.now.sh/4ver/metascraper/packages/metascraper-helpers?rn_9",
     "lodash": "~4.17.15"
   },
   "devDependencies": {
