@@ -58,7 +58,6 @@
   ],
   "dependencies": {
     "@metascraper/helpers": "https://gitpkg.now.sh/4ver/metascraper/packages/metascraper-helpers?rn_6",
-    "cheerio-advanced-selectors": "https://github.com/4ver/cheerio-advanced-selectors#shim",
     "lodash": "~4.17.15",
     "react-native-cheerio": "^1.0.0-rc.4",
     "whoops": "~4.1.0"
